@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.8)
-project(kar_onb_gabor)
+project(karacsonygabor_package)
 
 # Default to C++14
 if(NOT CMAKE_CXX_STANDARD)
